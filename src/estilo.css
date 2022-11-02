@@ -829,7 +829,7 @@ body{
     left:-100%;
      background-color:#025899;
     width: 100%;
-    transition:all 1s;
+    transition:all 0.5s;
     height:100%;
     z-index: 50;
     overflow-y: auto;
@@ -973,10 +973,10 @@ color: #0df9f9;
     height: 20em;   
 }
 .texto-titulouno{
-    font-size: 1em;   
+    font-size: 1.2em;   
 }
  .texto-titulodos{
-   font-size: 0.9em;
+   font-size: 1em;
 } 
 .texto-botton{
     margin-top: 1.5em;
@@ -1100,6 +1100,11 @@ color: #0df9f9;
 /* HTML2 */
 /* HTML2 */
 /* HTML2 */
+
+.texto-titulouno-htmldos{
+    font-size: 2em;   
+}
+
 .descripcion-contenedor-htmldos{
     grid-area: descripcion;
     padding: 1em;
@@ -1108,7 +1113,7 @@ color: #0df9f9;
 .titulo-descripcion-htmldos{
     display: flex;
     justify-content: center;
-    font-size: 1.3em;
+    font-size: 1em;
 }
 .parrafo-descripcion-htmldos{
     font-size: 0.9em;
@@ -1144,6 +1149,13 @@ color: #0df9f9;
 /* HTML3 */
 /* HTML3 */
 
+.texto-titulouno-htmltres{
+    font-size: 2em;   
+}
+.titulo-descripcion-htmltres{
+    font-size: 1em;
+}
+
 .lista-act-htmltres{
     width: 70%;
     margin: auto;
@@ -1175,6 +1187,12 @@ color: #0df9f9;
 /* HTML4 */
 /* HTML4 */
 
+.texto-titulouno-htmlcuatro{
+    font-size: 2em;   
+}
+.titulo-descripcion-htmlcuatro{
+    font-size: 1em;
+}
 .lista-act-htmlcuatro{
     text-align: center;
     display: flex;
@@ -1220,6 +1238,15 @@ color: #0df9f9;
 /* HTML5 */
 /* HTML5 */
 /* HTML5 */
+
+.texto-titulouno-htmlcinco{
+    font-size: 2em;  
+    text-align: center; 
+}
+
+.texto-titulodos-htmlcinco{
+    font-size: 1.5em;   
+}
 
 /* Descripcion*/
 /* Descripcion*/
@@ -1291,7 +1318,7 @@ color: #0df9f9;
     left:-100%;
      background-color:#025899;
     width: 100%;
-    transition:all 1s;
+    transition:all 0.5s;
     height:100%;
     z-index: 50;
     overflow-y: auto;
@@ -1569,11 +1596,14 @@ color: #0df9f9;
 /* HTML2 */
 /* HTML2 */
 
-/* No hay modificaciones */
-/* No hay modificaciones */
-/* No hay modificaciones */
-/* No hay modificaciones */
-/* No hay modificaciones */
+
+.texto-titulouno-htmldos{
+    font-size: 1.7em;   
+}
+
+.titulo-descripcion-htmldos{
+    font-size: 1em;
+}
 
 /* HTML2 */
 /* HTML2 */
@@ -1591,12 +1621,13 @@ color: #0df9f9;
 /* HTML3 */
 /* HTML3 */
 
-/* No hay modificaciones */
-/* No hay modificaciones */
-/* No hay modificaciones */
-/* No hay modificaciones */
-/* No hay modificaciones */
+.texto-titulouno-htmltres{
+    font-size: 1.7em;   
+}
 
+.titulo-descripcion-htmltres{
+    font-size: 1em;
+}
 /* HTML3 */
 /* HTML3 */
 /* HTML3 */
@@ -1613,6 +1644,13 @@ color: #0df9f9;
 /* HTML4 */
 /* HTML4 */
 /* HTML4 */
+
+.texto-titulouno-htmlcuatro{
+    font-size: 1.7em;   
+}
+.titulo-descripcion-htmlcuatro{
+    font-size: 1em;
+}
 
 .lista-act-htmlcuatro{
     text-align: center;
@@ -1638,6 +1676,15 @@ color: #0df9f9;
 /* HTML5 */
 /* HTML5 */
 /* HTML5 */
+
+.texto-titulouno-htmlcinco{
+    font-size: 1.4em;   
+}
+ .texto-titulodos-htmlcinco{
+   font-size: 1.2em;
+}
+
+
 
 /* Descripcion*/
 /* Descripcion*/
